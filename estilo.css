@@ -1,0 +1,308 @@
+*{
+	background-color: #1C1B17;
+
+}
+h1{
+	font-family: 'Ruda', sans-serif;
+	text-align: center;
+	background-color: #1C1B17;
+	color: #FAC832;
+	text-decoration: underline;
+	font-size: 300%;
+}
+h2{
+	font-family: 'Ruda', sans-serif;
+	color: #ffff;
+	text-decoration: underline;
+}
+
+
+#nosotros{
+
+	height: auto;
+	float: right;
+	width:50%;
+	background-color: #1C1B17;
+}
+#ventajas{
+
+	height: auto;
+	float: left;
+	width:50%;
+	background-color: #1C1B17;
+}
+
+
+
+#titulo1{
+
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffff;
+	text-decoration: underline;
+}
+
+#titulo2{
+
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffff;
+	text-decoration: underline;
+}
+
+
+
+#color1{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+
+}
+#color2{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+#color3{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+#color4{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+#color5{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+#color6{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+#color7{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+#color8{
+	color: #E37D1D;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+#parrafo1{
+	font-family: 'Roboto', sans-serif;
+	color: #ffff;
+	height: 220px;
+	width: auto;
+	font-size: 20px;
+}
+#parrafo2{
+	font-family: 'Roboto', sans-serif;
+	color: #ffff;
+	height: 220px;
+	width: auto;
+	font-size: 20px;
+	
+}
+
+
+h2{
+	text-decoration: underline;
+	font-family: 'Ruda', sans-serif;
+	text-align: center;
+	color: #ffff;
+}
+
+#h3-1{
+	color:#ffff;
+	text-align: center;
+	font-family: 'Ruda', sans-serif;
+	font-size: 200%;
+
+}
+#precio1{
+	text-decoration: line-through;
+	color:#1A79DE;
+	font-weight: bold;
+	
+}
+#h3-2{
+	color:#ffff;
+	text-align: center;
+	font-family: 'Ruda', sans-serif;
+	font-size: 265%;
+	font-weight: bold;
+
+
+}
+#precio2{
+	color:#1A79DE;
+	font-weight: bold;
+
+}
+
+#aliniar1{
+	float: left;
+	width: 50%;
+	height:auto;
+	
+}
+#aliniar2{
+	float: right;
+	width: 50%;
+	height:auto;
+}
+
+#imagen2{
+
+	width: 100%;
+	height:100%;
+	
+}
+#imagen3{
+	width: 100%;
+	height:100%;
+	
+}
+#video{
+	width: auto;
+	height:auto;
+	margin: 50px;
+}
+video{
+	width: 100%;
+	height:100%;
+}
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: 'Ruda', sans-serif;
+    color: #ffffff;
+    background-color: #1A79DE;
+    border-radius: 6px;
+    border: 4px solid black;
+    margin-left: 39%;
+    margin-right: 15%;
+    margin-bottom: 15px;
+
+    
+}
+.boton_personalizado:hover{
+    color: #ffff;
+    background-color: #1F2021;
+}
+#centrarimg4{
+	margin-top: 50px;
+	width: 100%;
+	height:auto;
+}
+#imagen4{
+	width: 100%;
+	height:auto;
+}
+#centrarimg5{
+
+	width: 100%;
+	height:auto;
+}
+#imagen5{
+	width: 100%;
+	height:auto;
+}
+#centrarimg6{
+
+	width: 100%;
+	height:auto;
+}
+#imagen6{
+	width: 100%;
+	height:auto;
+}
+#centrarimg7{
+	margin-bottom: 50px;
+	width: 100%;
+	height:auto;
+}
+#imagen7{
+	width: 100%;
+	height:auto;
+}
+#boton_personalizado2{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: 'Ruda', sans-serif;
+    color: #ffffff;
+    background-color: #1A79DE;
+    border-radius: 6px;
+    border: 4px solid black;
+    margin-left: 39%;
+    margin-right: 15%;
+    margin-bottom: 15px;
+}
+#boton_personalizado2:hover{
+    color: #fff;
+    background-color: #1F2021;
+}
+#h3-3{
+	color:#ffff;
+	text-align: center;
+	font-family: 'Ruda', sans-serif;
+	font-size: 200%;
+	margin-top: 60px;
+}
+form{
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+}
+
+form label{
+	width:72px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+form input[type="text"],
+form input[type="email"]{
+	width:180px;
+	padding:3px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+}
+
+form input[type="submit"]{
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+} 
+
+form input[type="submit"]:hover{
+	background-color: #ffff;
+	color: #000;
+}
+#nombre1{
+	background-color:#f6f6f6;
+}
+#apellidos1{
+	background-color:#f6f6f6;
+}
+#asunto1{
+	background-color:#f6f6f6;
+}
+#email1{
+	background-color:#f6f6f6;
+}
